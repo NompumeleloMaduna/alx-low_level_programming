@@ -3,7 +3,7 @@
 
 int main (void)
 {
-	char str[]= "/_putchar\n";
+	char str[]= "_putchar\n";
 	int i = 0;
 	
 		while (i<10)
