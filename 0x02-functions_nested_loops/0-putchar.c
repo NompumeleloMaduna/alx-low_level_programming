@@ -1,10 +1,17 @@
 #include <stdio.h>
+#include "main.h"
 
 int main (void)
 {
-	int i = "/_putchar";
+	char str[]= "/_putchar\n";
+	int i = 0;
 	
-	putchar (i);
+		while (i<10)
+	{
+	
+	_putchar (str[i]);
+	i++;
+	}
 	
 	return 0;
 }
