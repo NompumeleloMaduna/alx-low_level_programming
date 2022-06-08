@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include "main.h"
 /**
-* _putchar - prints _putchar
-*
-* Description: prints _putchar
-* Return: returns 0
-*/
+ *print _putchar - prints _putchar
+ *
+ * Description: prints _putchar
+ * Return: Always 0
+ */
 int main(void)
 {
 char str[] = "_putchar";
