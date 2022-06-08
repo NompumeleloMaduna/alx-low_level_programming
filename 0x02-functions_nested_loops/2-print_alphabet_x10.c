@@ -9,22 +9,18 @@
 
 void print_alphabet_x10(void)
 {
-int i, j = 0;
+char c;
+int i = 0;
 
-while (j < 10)
+while (i < 10)
 {
-i = 0;
-while (i < 26)
+c = 'a';
+while (c <= 'z')
 {
-
-_putchar('a' + i);
-i++;
-
+_putchar(c);
+c++;
 }
 _putchar('\n');
-j++;
-Return (0)
+i++;
 }
-
-
-
+}
