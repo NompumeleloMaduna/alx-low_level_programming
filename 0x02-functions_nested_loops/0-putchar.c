@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	char str[] = "_putchar/n";
+	char str[] = "_putchar";
 	int i = 0;
 
 	while (i < 9)
@@ -16,5 +16,6 @@ int main(void)
 	_putchar(str[i]);
 	i++;
 	}
+	_putchar('\n');
 	return (0);
 }
