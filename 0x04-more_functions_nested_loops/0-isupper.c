@@ -10,7 +10,7 @@
 
 int _isupper(int c)
 {
-if (c = 67)
+if (c == 'C')
 {
 return (1);
 }
