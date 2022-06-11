@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main - entry point
- *Description: prints 1-100 excluding multiples of 3 and 5
- Return: 1- 100
+ * main - entry point
+ * Description: prints 1-100 excluding multiples of 3 and 5
+ * Return: 0
  */
 int main(void)
 {
