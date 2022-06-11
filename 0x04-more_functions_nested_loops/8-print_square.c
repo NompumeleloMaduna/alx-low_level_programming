@@ -11,11 +11,11 @@ void print_square(int size)
 
 	if (size > 0)
 	{
-		for (i = 1; i <= 98; i++)
+		for (i = 1; i <= size; i++)
 		{
 			int j;
 
-			for (j = 1; j <= 98; j++)
+			for (j = 1; j <= size; j++)
 			{
 				if (j == size)
 				{
