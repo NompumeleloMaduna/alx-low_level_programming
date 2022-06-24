@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _strlen_recursion: returns length of a string
+ * _strlen_recursion - returns length of a string
  * @s: string
  * Return: integer (string length)
  */
