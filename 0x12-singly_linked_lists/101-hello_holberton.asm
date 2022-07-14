@@ -16,9 +16,3 @@ syscall           ;
 section .rodata
 msg: db "Hello, Holberton", 10
 msglen: equ $ - msg
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-
